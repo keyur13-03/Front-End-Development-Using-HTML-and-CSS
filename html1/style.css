@@ -1,0 +1,46 @@
+.container{
+    position: center;
+}
+.container .TEXT{
+    position: center ;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+.container .column {
+    width: 100%;
+    padding-top: 100px;
+    margin-left: 300px;
+      
+  }
+  .column img{
+      border: 1px solid #555 ;
+      float: center;
+      padding: 10px;
+      height: 250px;
+      width: 250px;
+      margin: 0;
+  }
+
+    
+     
+    
+ 
+  .contact{
+      color: green;
+      font-size: 25px;
+      padding-top: 35px;
+  }
+
+  ul.a {
+    list-style-type: square;
+  }
+  ul.b {
+    list-style-type: circle;
+  }
+  
+  
+  /* Clear floats after image containers */

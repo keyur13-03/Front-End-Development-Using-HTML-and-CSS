@@ -1,0 +1,63 @@
+.container{
+    float: left;
+
+}
+
+.container img{
+    float: left;
+    width: 240px;
+    height: 150px;
+    
+    
+}
+.text{
+    text-align: center;
+    padding-top: 200px;
+    font-style: italic;
+    font-size: 20px;
+}
+.about .text{
+    font-size: 25px;
+    padding-top: 25px;
+}
+.paragraph{
+    font-size: 15px;
+    
+}
+
+.contactus .text{
+    color: green;
+    font-size: 25px;
+    font-style: normal;
+}
+.about .text{
+    color: gray;
+    font-size: 25px;
+    font-style: normal;
+}
+.footer{
+    position: fixed;
+    text-align: center;
+    background-color: black;
+    color: white;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.column {
+    width: 100%;
+    padding-top: 100px;
+    margin-left: 200px; 
+      
+  }
+  .column img{
+      border: 1px solid #555 ;
+      float: center;
+      padding: none;
+      height:250px;
+      width: 300px;
+      border-radius: 10%;
+
+      margin: 0;
+  }
